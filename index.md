@@ -48,14 +48,23 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">What is the email address of your celebrant?</span>
+            <span class="nsw-form-legend-text">Surname:</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{celebrantemail}" value="name@celebrant">
+               <input class="nsw-form-text__input" type="text" name="{surname}" id="{party1surname}" value="Smith">
             </div>
            </fieldset>
         </div>
-    </div>
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Given name(s)</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{givennames}" id="{party1givennames}" value="John">
+            </div>
+           </fieldset>
+        </div>                    
     <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
