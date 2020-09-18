@@ -3,7 +3,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">What is your celebrant's name?</span>
+            <span class="nsw-form-legend-text">Name of celebrant:</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{name}" id="{celebrantname}" value="Marion">
@@ -15,7 +15,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">What is the email address of your celebrant?</span>
+            <span class="nsw-form-legend-text">Email address of celebrant:</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{celebrantemail}" value="name@celebrant">
@@ -79,7 +79,27 @@
                <label class="nsw-form-radio__label" for="{party1sex3}">Other</label>
             </div>
            </fieldset>
-        </div>                             
+        </div>  
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Usual occupation</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{occupation}" id="{party1occupation}" value="Purveyor of fine meats">
+            </div>
+           </fieldset>
+        </div>     
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Usual place of residence (full address)n</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{address}" id="{party1address}" value="4 Lagoon Place, Patterson Lakes VIC 3197">
+            </div>
+           </fieldset>
+        </div>                      
     <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
