@@ -1,5 +1,17 @@
-<h1> Do I need a gaming permit? </h1>
+<h1> Notice of Intended Marriage </h1>
 
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">What is the email address of your celebrant</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{celebrantemail}" value="name@celebrant">
+            </div>
+           </fieldset>
+        </div>
+    </div>
   <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
