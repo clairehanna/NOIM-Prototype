@@ -3,7 +3,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Name of celebrant:</span>
+            <span class="nsw-form-legend-text">Name of celebrant</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{name}" id="{celebrantname}" value="Marion">
@@ -15,7 +15,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Email address of celebrant:</span>
+            <span class="nsw-form-legend-text">Email address of celebrant</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{celebrantemail}" value="Marion@Celebrant">
@@ -28,7 +28,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Description of party:</span>
+            <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" value="True">
@@ -43,7 +43,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Surname:</span>
+            <span class="nsw-form-legend-text">Surname</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{surname}" id="{party1surname}" value="Knight">
@@ -180,7 +180,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Description of party:</span>
+            <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description1}">
@@ -195,7 +195,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Surname:</span>
+            <span class="nsw-form-legend-text">Surname</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{surname}" id="{party2surname}" value="Day">
