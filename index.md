@@ -18,7 +18,7 @@
             <span class="nsw-form-legend-text">Email address of celebrant:</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{celebrantemail}" value="name@celebrant">
+               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{celebrantemail}" value="Marion@Celebrant">
             </div>
            </fieldset>
         </div>
@@ -113,10 +113,30 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Birthplace (if born in Australia, insert city or town, and state or territory; if born outside Australia, insert city or town and country</span>
+            <span class="nsw-form-legend-text">Birthplace (if born in Australia, insert city or town, and state or territory; if born outside Australia, insert city or town, and country)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party1conjugalstatus}" value="Never validly married">
+               <input class="nsw-form-text__input" type="text" name="{bithplace}" id="{party1birthplace}" value="Melbourne, VIC">
+            </div>
+           </fieldset>
+        </div>     
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Date of birth (dd/mm/yyyy)</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{dateofbirth}" id="{party1cdateofbirth}" value="02/06/1963">
+            </div>
+           </fieldset>
+        </div>  
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">If born outside Australia, total period of residence in Australia</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{Australianresidence}" id="{party1Australianresidence}"
             </div>
            </fieldset>
         </div>                        
