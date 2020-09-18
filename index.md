@@ -25,6 +25,7 @@
     </div>
 <h2> Please provide the details of the parties intending to marry </h2> 
 <h3> Party 1 </h3> 
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -177,6 +178,7 @@
         </div>
 
 <h3> Party 2 </h3>       
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
