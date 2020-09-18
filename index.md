@@ -30,7 +30,7 @@
             <fieldset class="nsw-form-fieldset">
             <legend>
             <span class="nsw-form-legend-text">Party 1</span>
-            <legend>
+            </legend>
             <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
