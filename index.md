@@ -182,7 +182,6 @@
            </fieldset>
         </div>
 
-<h2> </h2>
 <h3> Party 2 </h3>       
 <div class="nsw-forms">
         <div class="nsw-form-group">
@@ -340,8 +339,31 @@
             </div>
            </fieldset>
         </div>                      
-                    
-                    
+ 
+<h2> If a party has been previously married, that party must give the following particulars: </h2> 
+<h3> Party 2 </h3> 
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Number of previous marriages</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{previousmarriages}" id="{party2previousmarriages}" value="1">
+            </div>
+           </fieldset>
+        </div>    
+         <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Number of previous marriages</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{previousmarriages}" id="{party2previousmarriages}" value="1">
+            </div>
+           </fieldset>
+        </div>          
+        
+        
     <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
