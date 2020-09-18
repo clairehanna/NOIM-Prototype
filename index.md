@@ -93,13 +93,33 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Usual place of residence (full address)n</span>
+            <span class="nsw-form-legend-text">Usual place of residence (full address)</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{address}" id="{party1address}" value="4 Lagoon Place, Patterson Lakes VIC 3197">
             </div>
            </fieldset>
-        </div>                      
+        </div>
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Conjugal status (for example, never validly married, widowed, divorced)</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party1conjugalstatus}" value="Never validly married">
+            </div>
+           </fieldset>
+        </div>                        
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Birthplace (if born in Australia, insert city or town, and state or territory; if born outside Australia, insert city or town and country</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party1conjugalstatus}" value="Never validly married">
+            </div>
+           </fieldset>
+        </div>                        
     <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
