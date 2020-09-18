@@ -182,21 +182,20 @@
            </fieldset>
         </div>
 
-
-
+<h2> </h2>
 <h3> Party 2 </h3>       
-<div class="nsw-forms2">
-        <div class="nsw-form-group2">
-            <fieldset class="nsw-form-fieldset2">
+<div class="nsw-forms">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text2">Party 2</span>
+            <span class="nsw-form-legend-text">Party 2</span>
             </legend>
-        <div class="nsw-form-group2">
-            <fieldset class="nsw-form-fieldset2">
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text2">Description of party:</span>
+            <span class="nsw-form-legend-text">Description of party:</span>
             </legend>
-            <div class="nsw-form-radio2">
+            <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description1}">
                <label class="nsw-form-radio__label" for="{party2description1}">Groom</label>
                <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description2}" value="True">
