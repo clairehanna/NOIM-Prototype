@@ -159,7 +159,27 @@
                <input class="nsw-form-text__input" type="text" name="{mothermaiden}" id="{party1mothermaiden}" value="Jane Doe">
             </div>
            </fieldset>
-        </div>                    
+        </div>     
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Father's country of birth (if not known, write "unknown")</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{fatherbirthcountry}" id="{party1fatherbirthcountry}" value="Australia">
+            </div>
+           </fieldset>
+        </div>
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Mother's country of birth (if not known, write "unknown")</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{motherbithcountry}" id="{party1motherbirthcountry}" value="England">
+            </div>
+           </fieldset>
+        </div>                      
     <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
