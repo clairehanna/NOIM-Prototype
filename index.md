@@ -29,25 +29,15 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">What type of game are you running?</span>
+            <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype1}" value="True">
-               <label class="nsw-form-radio__label" for="{gametype1}">Housie</label>
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype2}">
-               <label class="nsw-form-radio__label" for="{gametype2}">Draw Lottery</label>         
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype3}">
-               <label class="nsw-form-radio__label" for="{gametype3}">No-draw Lottery</label>         
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype4}">
-               <label class="nsw-form-radio__label" for="{gametype4}">Mini Numbers Lottery</label>         
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype5}">
-               <label class="nsw-form-radio__label" for="{gametype5}">Progressive Lottery</label>         
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype6}">
-               <label class="nsw-form-radio__label" for="{gametype6}">Free Lottery</label>         
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype7}">
-               <label class="nsw-form-radio__label" for="{gametype7}">Promotional Raffle</label>         
-               <input class="nsw-form-radio__input" type="radio" name="{gametype}" id="{gametype8}">
-               <label class="nsw-form-radio__label" for="{gametype8}">Trade Promotion</label>         
+               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" value="True">
+               <label class="nsw-form-radio__label" for="{party1description1}">Groom</label>
+               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description2}">
+               <label class="nsw-form-radio__label" for="{party1description2}">Bride</label
+               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description3}">
+               <label class="nsw-form-radio__label" for="{party1description3}">Partner</label>
             </div>
            </fieldset>
         </div>
