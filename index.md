@@ -180,7 +180,7 @@
             </div>
            </fieldset>
         </div>
-                    </div>           
+          
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
