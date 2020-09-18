@@ -127,7 +127,7 @@
             <span class="nsw-form-legend-text">Date of birth (dd/mm/yyyy)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{dateofbirth}" id="{party1cdateofbirth}" value="02/06/1963">
+               <input class="nsw-form-text__input" type="text" name="{dateofbirth}" id="{party1dateofbirth}" value="02/06/1963">
             </div>
            </fieldset>
         </div>  
@@ -244,7 +244,7 @@
             <span class="nsw-form-legend-text">Usual occupation</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{occupation}" id="{party1occupation}" value="Purveyor of fine meats">
+               <input class="nsw-form-text__input" type="text" name="{occupation}" id="{party2occupation}" value="None">
             </div>
            </fieldset>
         </div>     
@@ -254,7 +254,7 @@
             <span class="nsw-form-legend-text">Usual place of residence (full address)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{address}" id="{party1address}" value="4 Lagoon Place, Patterson Lakes VIC 3197">
+               <input class="nsw-form-text__input" type="text" name="{address}" id="{party2address}" value="4 Lagoon Place, Patterson Lakes VIC 3197">
             </div>
            </fieldset>
         </div>
@@ -264,7 +264,7 @@
             <span class="nsw-form-legend-text">Conjugal status (for example, never validly married, widowed, divorced)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party1conjugalstatus}" value="Never validly married">
+               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party2conjugalstatus}" value="Divorced">
             </div>
            </fieldset>
         </div>                        
@@ -284,7 +284,7 @@
             <span class="nsw-form-legend-text">Date of birth (dd/mm/yyyy)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{dateofbirth}" id="{party1cdateofbirth}" value="02/06/1963">
+               <input class="nsw-form-text__input" type="text" name="{dateofbirth}" id="{party2dateofbirth}" value="23/03/1969">
             </div>
            </fieldset>
         </div>  
@@ -294,7 +294,7 @@
             <span class="nsw-form-legend-text">If born outside Australia, total period of residence in Australia</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{Australianresidence}" id="{party1Australianresidence}" value="N/A">
+               <input class="nsw-form-text__input" type="text" name="{Australianresidence}" id="{party2Australianresidence}" value="N/A">
             </div>
            </fieldset>
         </div>    
@@ -304,7 +304,7 @@
             <span class="nsw-form-legend-text">Father's full name (if not known, write "unknown". If deceased, add "deceased")</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{father}" id="{party1father}" value="John Knight (deceased)">
+               <input class="nsw-form-text__input" type="text" name="{father}" id="{party2father}" value="John Day">
             </div>
            </fieldset>
         </div>      
@@ -314,7 +314,7 @@
             <span class="nsw-form-legend-text">Mother's full maiden name (if not known, write "unknown". If deceased, add "deceased")</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{mothermaiden}" id="{party1mothermaiden}" value="Jane Doe">
+               <input class="nsw-form-text__input" type="text" name="{mothermaiden}" id="{party2mothermaiden}" value="Jane Doe">
             </div>
            </fieldset>
         </div>     
@@ -324,7 +324,7 @@
             <span class="nsw-form-legend-text">Father's country of birth (if not known, write "unknown")</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{fatherbirthcountry}" id="{party1fatherbirthcountry}" value="Australia">
+               <input class="nsw-form-text__input" type="text" name="{fatherbirthcountry}" id="{party2fatherbirthcountry}" value="Australia">
             </div>
            </fieldset>
         </div>
@@ -334,7 +334,7 @@
             <span class="nsw-form-legend-text">Mother's country of birth (if not known, write "unknown")</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{motherbithcountry}" id="{party1motherbirthcountry}" value="England">
+               <input class="nsw-form-text__input" type="text" name="{motherbithcountry}" id="{party2motherbirthcountry}" value="Australia">
             </div>
            </fieldset>
         </div>                      
