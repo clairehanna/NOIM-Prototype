@@ -180,7 +180,7 @@
             </div>
            </fieldset>
         </div>
-          
+<h3>          
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -294,7 +294,7 @@
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{Australianresidence}" id="{party1Australianresidence}" value="N/A">
-.            </div>
+            </div>
            </fieldset>
         </div>    
         <div class="nsw-form-group">
