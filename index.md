@@ -23,7 +23,8 @@
            </fieldset>
         </div>
     </div>
-  <h2> The following parties give notice of their marriage: </h2>  
+  <h2> Please provide the details of the parties intending to marry </h2> 
+  <h3> Party 1: </h3> 
   <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
