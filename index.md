@@ -180,7 +180,7 @@
             </div>
            </fieldset>
         </div>
-    </div>                   
+                    </div>           
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -208,7 +208,7 @@
             <span class="nsw-form-legend-text">Surname:</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{surname}" id="{party1surname}" value="Knight">
+               <input class="nsw-form-text__input" type="text" name="{surname}" id="{party2surname}" value="Day">
             </div>
            </fieldset>
         </div>
@@ -218,7 +218,7 @@
             <span class="nsw-form-legend-text">Given name(s)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{givennames}" id="{party1givennames}" value="Kel">
+               <input class="nsw-form-text__input" type="text" name="{givennames}" id="{party2givennames}" value="Kath Darleen">
             </div>
            </fieldset>
         </div>
@@ -228,12 +228,12 @@
             <span class="nsw-form-legend-text">Sex</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{party1sex}" id="{party1sex1}" value="True">
+               <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex1}">
                <label class="nsw-form-radio__label" for="{party1sex1}">Male</label>
-               <input class="nsw-form-radio__input" type="radio" name="{party1sex}" id="{party1sex2}">
+               <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex2}" value="True">
                <label class="nsw-form-radio__label" for="{party1sex2}">Female</label>
-               <input class="nsw-form-radio__input" type="radio" name="{party1sex}" id="{party1sex3}">
-               <label class="nsw-form-radio__label" for="{party1sex3}">Other</label>
+               <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex3}">
+               <label class="nsw-form-radio__label" for="{party2sex3}">Other</label>
             </div>
            </fieldset>
         </div>  
