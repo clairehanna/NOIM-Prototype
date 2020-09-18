@@ -25,12 +25,6 @@
     </div>
 <h2> Please provide the details of the parties intending to marry </h2> 
 <h3> Party 1 </h3> 
-<div class="nsw-forms">
-        <div class="nsw-form-group">
-            <fieldset class="nsw-form-fieldset">
-            <legend>
-            <span class="nsw-form-legend-text">Party 1</span>
-            </legend>
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -183,12 +177,6 @@
         </div>
 
 <h3> Party 2 </h3>       
-<div class="nsw-forms">
-        <div class="nsw-form-group">
-            <fieldset class="nsw-form-fieldset">
-            <legend>
-            <span class="nsw-form-legend-text">Party 2</span>
-            </legend>
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -355,14 +343,23 @@
          <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Number of previous marriages</span>
+            <span class="nsw-form-legend-text">Year of each previous marriage ceremony (if known, give date)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{previousmarriages}" id="{party2previousmarriages}" value="1">
+               <input class="nsw-form-text__input" type="text" name="{previousmarriagesdates}" id="{party2previousmarriagesdates}" value="05/05/1994">
             </div>
            </fieldset>
         </div>          
-        
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Number of children of the previous marriage or marriages born alive (whether now living or deceased)</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{previousmarriagesdates}" id="{party2previousmarriagesdates}" value="1">
+            </div>
+           </fieldset>
+        </div>           
         
     <div class="nsw-forms">
         <div class="nsw-form-group">
