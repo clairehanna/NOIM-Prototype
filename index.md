@@ -44,8 +44,7 @@
                <label class="nsw-form-radio__label" for="{party1description3}">Partner</label>
             </div>
            </fieldset>
-        </div>
-    </div>                
+        </div>             
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
