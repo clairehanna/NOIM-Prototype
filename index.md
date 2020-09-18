@@ -29,13 +29,15 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
+            <span class="nsw-form-legend-text">Party 1</span>
+            <legend>
             <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" value="True">
                <label class="nsw-form-radio__label" for="{party1description1}">Groom</label>
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description2}">
-               <label class="nsw-form-radio__label" for="{party1description2}">Bride</label
+               <label class="nsw-form-radio__label" for="{party1description2}">Bride</label>
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description3}">
                <label class="nsw-form-radio__label" for="{party1description3}">Partner</label>
             </div>
