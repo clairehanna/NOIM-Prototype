@@ -181,14 +181,17 @@
             </div>
            </fieldset>
         </div>
+
+
+
 <h3> Party 2 </h3>       
 <div class="nsw-forms">
-        <div class="nsw-form-group2">
+        <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
             <span class="nsw-form-legend-text">Party 2</span>
             </legend>
-        <div class="nsw-form-group2">
+        <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
             <span class="nsw-form-legend-text">Description of party:</span>
@@ -203,7 +206,7 @@
             </div>
            </fieldset>
         </div>             
-        <div class="nsw-form-group2">
+        <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
             <span class="nsw-form-legend-text">Surname:</span>
