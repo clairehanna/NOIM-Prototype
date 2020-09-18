@@ -136,10 +136,30 @@
             <span class="nsw-form-legend-text">If born outside Australia, total period of residence in Australia</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{Australianresidence}" id="{party1Australianresidence}"
+               <input class="nsw-form-text__input" type="text" name="{Australianresidence}" id="{party1Australianresidence}">
+.            </div>
+           </fieldset>
+        </div>    
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Father's full name (if not known, write "unknown". If deceased, add "deceased")</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{father}" id="{party1father}" value="John Knight (deceased)">
             </div>
            </fieldset>
-        </div>                        
+        </div>      
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Mother's full maiden name (if not known, write "unknown". If deceased, add "deceased")</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{mothermaiden}" id="{party1mothermaiden}" value="Jane Doe">
+            </div>
+           </fieldset>
+        </div>                    
     <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
