@@ -43,6 +43,9 @@
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description3}">
                <label class="nsw-form-radio__label" for="{party1description3}">Partner</label>
             </div>
+           </fieldset>
+        </div>
+    </div>                
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
