@@ -23,8 +23,8 @@
            </fieldset>
         </div>
     </div>
-  <h2> Please provide the details of the parties intending to marry </h2> 
-        <div class="nsw-forms">
+<h2> Please provide the details of the parties intending to marry </h2> 
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
