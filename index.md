@@ -181,6 +181,7 @@
             </div>
            </fieldset>
         </div>
+       </div>
 <h3> Party 2 </h3>       
 <div class="nsw-forms">
         <div class="nsw-form-group">
