@@ -498,7 +498,27 @@
                <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty1}" id="{signaturewitnessparty1}">
             </div>
            </fieldset>
-        </div>              
+        </div>           
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Qualification of witness</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty1}" id="{witnessqualificationparty1}">
+            </div>
+           </fieldset>
+        </div>     
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Date (dd/mm/yyyy)</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{dateparty1}" id="{dateparty1}">
+            </div>
+           </fieldset>
+        </div>          
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -519,7 +539,31 @@
                <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty2}" id="{signaturewitnessparty2}">
             </div>
            </fieldset>
-        </div>             
+        </div>                
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Qualification of witness</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty2}" id="{witnessqualificationparty2}">
+            </div>
+           </fieldset>
+        </div> 
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Date (dd/mm/yyyy)</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{dateparty2}" id="{dateparty2}">
+            </div>
+           </fieldset>
+        </div>         
+        
+        
+        
+        
         
 <h2> Ignore below </h2>
     <div class="nsw-forms">
