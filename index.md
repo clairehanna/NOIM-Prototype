@@ -477,11 +477,12 @@
                <input class="nsw-form-text__input" type="text" name="{relationdetail}" id="{relationdetail}">
             </div>
            </fieldset>
-        </div>         
+        </div>        
+<h3> Party 1 </h3>        
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Signature of party 1*</span>
+            <span class="nsw-form-legend-text">Signature*</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{signatureparty1}" id="{signatureparty1}">
@@ -518,11 +519,12 @@
                <input class="nsw-form-text__input" type="text" name="{dateparty1}" id="{dateparty1}">
             </div>
            </fieldset>
-        </div>          
+        </div>   
+<h3> Party 2 </h3>        
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Signature of party 2*</span>
+            <span class="nsw-form-legend-text">Signature*</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{signatureparty2}" id="{signatureparty2}">
