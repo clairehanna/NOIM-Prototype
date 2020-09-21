@@ -1,8 +1,9 @@
 <h1> Notice of Intended Marriage </h1>
 <h2> Privacy notes </h2>
 Section	42 of the Marriage Act 1961 (the Act) requires that a marriage shall not be solemnised unless a notice in writing of the intended marriage, in the prescribed form, is given to the authorised celebrant solemnising the marriage. This Notice is the prescribed form for this purpose.
-
+</div>
 The authorised celebrant to whom the Notice is given sends the Notice to the Registrar of Births, Deaths and Marriages of the State or Territory in which the marriage takes place, after the marriage ceremony. The Registrar uses the information in the Notice to register the marriage. The	Registrar of Births, Deaths and Marriages then sends the Notice	to the	Australian Bureau of Statistics	(the ABS), which requests information about these matters under the Census and Statistics Act 1905. The ABS records nonidentifying information from the Notice, including each party’s sex, and uses that information to generate national statistics on marriage and the family in Australia. Personal identifying information is not retained.
+</div>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
