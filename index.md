@@ -7,9 +7,9 @@ The authorised celebrant to whom the Notice is given sends the Notice to the Reg
 The Registrar of Births, Deaths and Marriages then sends the Notice	to the	Australian Bureau of Statistics	(the ABS), which requests information about these matters under the Census and Statistics Act 1905. The ABS records nonidentifying information from the Notice, including each party’s sex, and uses that information to generate national statistics on marriage and the family in Australia. Personal identifying information is not retained.
 
 <h2> Notes </h2>
-<h3> MARRIAGE OF ANY PERSON UNDER 18 YEARS WITHOUT AN ORDER OF A JUDGE OR MAGISTRATE IS INVALID. 
+<h3> MARRIAGE OF ANY PERSON UNDER 18 YEARS WITHOUT AN ORDER OF A JUDGE OR MAGISTRATE IS INVALID. </h3>
 
-UNDER NO CIRCUMSTANCES CAN 2 PERSONS UNDER 18 YEARS MARRY EACH OTHER. </h3>
+<h3> UNDER NO CIRCUMSTANCES CAN 2 PERSONS UNDER 18 YEARS MARRY EACH OTHER. </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
