@@ -454,6 +454,51 @@
             </div>
            </fieldset>
         </div>    
+<h3> Further details </h3>
+        <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Are the parties related to each other?</span>
+            </legend>
+            <div class="nsw-form-radio">
+               <input class="nsw-form-radio__input" type="radio" name="{relation}" id="{relationyes}">
+               <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
+               <input class="nsw-form-radio__input" type="radio" name="{relation}" id="{relationno}" value="True">
+               <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
+            </div>
+           </fieldset>
+        </div>  
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">If yes, state relationship</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{relationdetail}" id="{relationdetail}">
+            </div>
+           </fieldset>
+        </div>         
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Signature of party 1</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{signatureparty1}" id="{signatureparty1}">
+            </div>
+           </fieldset>
+        </div>          
+          <div class="nsw-form-group">
+            <fieldset class="nsw-form-fieldset">
+            <legend>
+            <span class="nsw-form-legend-text">Signature of party 2</span>
+            </legend>
+            <div class="nsw-form-text">
+               <input class="nsw-form-text__input" type="text" name="{signatureparty2}" id="{signatureparty2}">
+            </div>
+           </fieldset>
+        </div>              
+        
         
 <h2> Ignore below </h2>
     <div class="nsw-forms">
