@@ -23,7 +23,7 @@ b.	if a party has previously been legally married, evidence of a party’s divor
 If a party has been divorced in Australia, the authorised celebrant should sight court evidence of the decree upon dissolution of marriage. 
 6.	A party to an intended marriage who has not turned 18 (unless the party has previously been married), must obtain the necessary consents or dispensations required under the Act, and the authorised celebrant must sight those consents or dispensations before proceeding with the marriage. Also, a person under 18 years is not of marriageable age, and cannot be a party to a marriage, unless the person obtains an order from the court under section 12 of the Act.
 
-<h2> Celebrant details </h2>
+<h2> Celebrant details: </h2>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -479,7 +479,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             </div>
            </fieldset>
         </div>    
-<h2> Further details </h2>
+<h2> Further details: </h2>
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -503,7 +503,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             </div>
            </fieldset>
         </div> 
-<h2> Signatures </h2>        
+<h2> Signatures: </h2>        
 <h3> Party 1 </h3>        
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
