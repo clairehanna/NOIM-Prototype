@@ -519,7 +519,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Signature of witness</span>
+            <span class="nsw-form-legend-text">Signature of witness*</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty1}" id="{signaturewitnessparty1}">
@@ -560,7 +560,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Signature of witness</span>
+            <span class="nsw-form-legend-text">Signature of witness*</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty2}" id="{signaturewitnessparty2}">
