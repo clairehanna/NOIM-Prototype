@@ -589,4 +589,4 @@ If a party has been divorced in Australia, the authorised celebrant should sight
         </div>         
         
 
-<a href="{{ '/noim-submit' | url }}" class="nsw-button nsw-button--primary">Submit</a>        
+<a href="{{ 'https://github.com/clairehanna/NOIM-Prototype/noim-submit' | url }}" class="nsw-button nsw-button--primary">Submit</a>        
