@@ -488,7 +488,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{relation}" id="{relationyes}">
                <label class="nsw-form-radio__label" for="{relationyes}">Yes</label>
-               <input class="nsw-form-radio__input" type="radio" name="{relation}" id="{relationno}" value="True">
+               <input class="nsw-form-radio__input" type="radio" name="{relation}" id="{relationno}" checked>
                <label class="nsw-form-radio__label" for="{party1sex2}">No</label>
             </div>
            </fieldset>
@@ -512,7 +512,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Signature*</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{signatureparty1}" id="{signatureparty1}">
+               <input class="nsw-form-text__input" type="text" name="{signatureparty1}" id="{signatureparty1}" value="KK">
             </div>          
            </fieldset>
         </div>          
@@ -522,7 +522,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Signature of witness*</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty1}" id="{signaturewitnessparty1}">
+               <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty1}" id="{signaturewitnessparty1}" value="SD">
             </div>
            </fieldset>
         </div>           
@@ -532,7 +532,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Qualification of witness</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty1}" id="{witnessqualificationparty1}">
+               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty1}" id="{witnessqualificationparty1}" value="Solicitor">
             </div>
            </fieldset>
         </div>     
@@ -542,7 +542,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Date (dd/mm/yyyy)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{dateparty1}" id="{dateparty1}">
+               <input class="nsw-form-text__input" type="text" name="{dateparty1}" id="{dateparty1}" value="23/09/2020">
             </div>
            </fieldset>
         </div>   
@@ -553,7 +553,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Signature*</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{signatureparty2}" id="{signatureparty2}">
+               <input class="nsw-form-text__input" type="text" name="{signatureparty2}" id="{signatureparty2}" value="KD">
             </div>          
            </fieldset>
         </div>          
@@ -563,7 +563,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Signature of witness*</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty2}" id="{signaturewitnessparty2}">
+               <input class="nsw-form-text__input" type="text" name="{signaturewitnessparty2}" id="{signaturewitnessparty2}" value="SD">
             </div>
            </fieldset>
         </div>                
@@ -573,7 +573,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Qualification of witness</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty2}" id="{witnessqualificationparty2}">
+               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty2}" id="{witnessqualificationparty2}" value="Solicitor>
             </div>
            </fieldset>
         </div> 
@@ -583,7 +583,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Date (dd/mm/yyyy)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{dateparty2}" id="{dateparty2}">
+               <input class="nsw-form-text__input" type="text" name="{dateparty2}" id="{dateparty2}" value="23/09/2020">
             </div>
            </fieldset>
         </div>         
