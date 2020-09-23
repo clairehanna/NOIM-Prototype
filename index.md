@@ -57,7 +57,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Description of party</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" value="True">
+               <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description1}" checked>
                <label class="nsw-form-radio__label" for="{party1description1}">Groom</label>
                <input class="nsw-form-radio__input" type="radio" name="{party1description}" id="{party1description2}">
                <label class="nsw-form-radio__label" for="{party1description2}">Bride</label>
@@ -92,7 +92,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Sex</span>
             </legend>
             <div class="nsw-form-radio">
-               <input class="nsw-form-radio__input" type="radio" name="{party1sex}" id="{party1sex1}" value="True">
+               <input class="nsw-form-radio__input" type="radio" name="{party1sex}" id="{party1sex1}" checked>
                <label class="nsw-form-radio__label" for="{party1sex1}">Male</label>
                <input class="nsw-form-radio__input" type="radio" name="{party1sex}" id="{party1sex2}">
                <label class="nsw-form-radio__label" for="{party1sex2}">Female</label>
@@ -212,7 +212,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description1}">
                <label class="nsw-form-radio__label" for="{party2description1}">Groom</label>
-               <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description2}" value="True">
+               <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description2}" checked>
                <label class="nsw-form-radio__label" for="{party2description2}">Bride</label>
                <input class="nsw-form-radio__input" type="radio" name="{party2description}" id="{party2description3}">
                <label class="nsw-form-radio__label" for="{party2description3}">Partner</label>
@@ -247,7 +247,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex1}">
                <label class="nsw-form-radio__label" for="{party1sex1}">Male</label>
-               <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex2}" value="True">
+               <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex2}" checked>
                <label class="nsw-form-radio__label" for="{party1sex2}">Female</label>
                <input class="nsw-form-radio__input" type="radio" name="{party2sex}" id="{party2sex3}">
                <label class="nsw-form-radio__label" for="{party2sex3}">Other</label>
