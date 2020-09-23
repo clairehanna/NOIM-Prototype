@@ -573,7 +573,7 @@ If a party has been divorced in Australia, the authorised celebrant should sight
             <span class="nsw-form-legend-text">Qualification of witness</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty2}" id="{witnessqualificationparty2}" value="Solicitor>
+               <input class="nsw-form-text__input" type="text" name="{witnessqualificationparty2}" id="{witnessqualificationparty2}" value="Solicitor">
             </div>
            </fieldset>
         </div> 
