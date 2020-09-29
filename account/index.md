@@ -1,4 +1,3 @@
-<h1> Notice of Intended Marriage </h1>
 <h2> Your details: </h2>
 
 You and the person you are marrying can use these details to access this form at any time, any where.
