@@ -34,7 +34,7 @@ You and the person you are marrying can use these details to access this form at
             <span class="nsw-form-legend-text">The name of the person you are marrying</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{name}" id="{name1}" value="Kel Knight">
+               <input class="nsw-form-text__input" type="text" name="{name}" id="{name2}" value="Kel Knight">
             </div>
            </fieldset>
         </div>
@@ -46,7 +46,7 @@ You and the person you are marrying can use these details to access this form at
             <span class="nsw-form-legend-text">The email address of the person you are marrying</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{email1}" value="Kel.Knight@gmail.com">
+               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{email2}" value="Kel.Knight@gmail.com">
             </div>
            </fieldset>
         </div>
@@ -58,8 +58,12 @@ You and the person you are marrying can use these details to access this form at
             <span class="nsw-form-legend-text">Password</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{emailaddress}" id="{email1}" value="*******">
+               <input class="nsw-form-text__input" type="text" name="{password}" id="{password}" value="*******">
             </div>
            </fieldset>
         </div>
     </div>
+
+<h3>
+<a href="https://clairehanna.github.io/NOIM-Prototype/accountsubmit/" class="nsw-button nsw-button--primary">Create login details</a>        
+       </h3>
