@@ -64,5 +64,5 @@ You and the person you are marrying can use these details to access this form at
     </div>
 
 <h3>
-<a href="https://clairehanna.github.io/NOIM-Prototype/accountsubmit/" class="nsw-button nsw-button--primary">Create login details</a>        
+<a href="https://clairehanna.github.io/NOIM-Prototype/accountsubmit/" class="nsw-button nsw-button--primary">Save and continue</a>        
        </h3>
