@@ -24,6 +24,6 @@
         </div>
     </div>
 <h3>
-<a href="https://clairehanna.github.io/NOIM-Prototype/party1details/" class="nsw-button nsw-button--primary">Continue</a>        
+<a href="https://clairehanna.github.io/NOIM-Prototype/party1details/" class="nsw-button nsw-button--primary"> Save and continue</a>        
        </h3>  
     
