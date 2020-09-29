@@ -46,7 +46,7 @@
             <span class="nsw-form-legend-text">How LAST marriage terminated (insert "death", "divorce" or "nullity")</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{lastmarriageterminated}" id="{party1lastmarriageterminated}" value="divorce">
+               <input class="nsw-form-text__input" type="text" name="{lastmarriageterminated}" id="{party1lastmarriageterminated}" value="Divorce">
             </div>
            </fieldset>
         </div>         
@@ -60,3 +60,7 @@
             </div>
            </fieldset>
         </div>    
+
+<h3>
+<a href="https://clairehanna.github.io/NOIM-Prototype/party2history/" class="nsw-button nsw-button--primary">Save and continue</a>        
+       </h3>
