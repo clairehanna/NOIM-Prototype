@@ -1,5 +1,6 @@
 <h2> If a party has been previously married, that party must give the following particulars: </h2> 
 <h3> Party 1 </h3> 
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
