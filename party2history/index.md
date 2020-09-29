@@ -1,5 +1,6 @@
 <h2> If a party has been previously married, that party must give the following particulars: </h2> 
 <h3> Party 2 </h3> 
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
@@ -16,7 +17,7 @@
             <span class="nsw-form-legend-text">Year of each previous marriage ceremony (if known, give date)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{previousmarriagesdates}" id="{party2previousmarriagesdates}" value="05/05/1990, 25/02/2004 ">
+               <input class="nsw-form-text__input" type="text" name="{previousmarriagesdates}" id="{party2previousmarriagesdates}" value="05/05/1990, 25/02/2004">
             </div>
            </fieldset>
         </div>          
