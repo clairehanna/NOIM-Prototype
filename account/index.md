@@ -1,6 +1,6 @@
 <h2> Your details: </h2>
 
-You and the person you are marrying can use these details to access this form at any time, any where.
+You and the person you are marrying can use these details to save and come back to this form at any time. 
 
 <div class="nsw-forms">
         <div class="nsw-form-group">
