@@ -77,7 +77,7 @@
             <span class="nsw-form-legend-text">Conjugal status (for example, never validly married, widowed, divorced)</span>
             </legend>
             <div class="nsw-form-text">
-               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party1conjugalstatus}" value="Never validly married">
+               <input class="nsw-form-text__input" type="text" name="{conjugalstatus}" id="{party1conjugalstatus}" value="Divorced">
             </div>
            </fieldset>
         </div>                        
