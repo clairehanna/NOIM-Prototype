@@ -1,4 +1,5 @@
 <h2> Further details: </h2>
+<div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
