@@ -77,7 +77,7 @@
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">Would you like to notify other Government agencies of your change of last name?</span>
+            <span class="nsw-form-legend-text">Would you like to notify other Government agencies of your change of last name when your marriage is registered?</span>
             </legend>
             <div class="nsw-form-radio">
                <input class="nsw-form-radio__input" type="radio" name="{notificationyes}" id="{notificationyes}" checked>
