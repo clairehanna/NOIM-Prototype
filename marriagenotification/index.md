@@ -66,7 +66,7 @@
           <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
             <legend>
-            <span class="nsw-form-legend-text">What are you changing it to? (enter last name only)</span>
+            <span class="nsw-form-legend-text">What are you changing it to? (Enter last name only)</span>
             </legend>
             <div class="nsw-form-text">
                <input class="nsw-form-text__input" type="text" name="{newlastname}" id="{party2newlastname}" value="Day-Knight">
