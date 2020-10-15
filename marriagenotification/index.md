@@ -107,5 +107,5 @@
         </div>    
         
 <h3>
-<a href="https://clairehanna.github.io/NOIM-Prototype/submit/" class="nsw-button nsw-button--primary">Submit</a>        
+<a href="https://clairehanna.github.io/NOIM-Prototype/savenotificationpreferences/" class="nsw-button nsw-button--primary">Save preferences</a>        
        </h3>        
