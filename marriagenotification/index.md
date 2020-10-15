@@ -27,7 +27,9 @@
                <input class="nsw-form-checkbox__input" type="checkbox" name="{ATO}" id="{ATOyes}" checked>
                <label class="nsw-form-checkbox__label" for="{ATOyes}">Australian Taxation Office</label>
                <input class="nsw-form-checkbox__input" type="checkbox" name="{SydneyWater}" id="{SydneyWateryes}">
-               <label class="nsw-form-checkbox__label" for="{SydneyWateryes}">Sydney Water</label>               
+               <label class="nsw-form-checkbox__label" for="{SydneyWateryes}">Sydney Water</label> 
+               <input class="nsw-form-checkbox__input" type="checkbox" name="{AEC}" id="{AECyes}" checked>
+               <label class="nsw-form-checkbox__label" for="{AECyes}">Australian Electoral Commission</label>                     
             </div>
            </fieldset>
         </div>       
@@ -101,7 +103,9 @@
                <input class="nsw-form-checkbox__input" type="checkbox" name="{ATO}" id="{ATOyes}" checked>
                <label class="nsw-form-checkbox__label" for="{ATOyes}">Australian Taxation Office</label>
                <input class="nsw-form-checkbox__input" type="checkbox" name="{SydneyWater}" id="{SydneyWateryes}" checked>
-               <label class="nsw-form-checkbox__label" for="{SydneyWateryes}">Sydney Water</label>               
+               <label class="nsw-form-checkbox__label" for="{SydneyWateryes}">Sydney Water</label>
+               <input class="nsw-form-checkbox__input" type="checkbox" name="{AEC}" id="{AECyes}" checked>
+               <label class="nsw-form-checkbox__label" for="{AECyes}">Australian Electoral Commission</label>                    
             </div>
            </fieldset>
         </div>    
