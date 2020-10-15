@@ -23,9 +23,9 @@
                <input class="nsw-form-checkbox__input" type="checkbox" name="{Medicare}" id="{Medicareyes}" checked>
                <label class="nsw-form-checkbox__label" for="{Medicareyes}">Medicare</label>
                <input class="nsw-form-checkbox__input" type="checkbox" name="{Centrelink}" id="{Centrelinkyes}">
-               <label class="nsw-form-checkbox__label" for="{Cetrelinkyes}">Services Australian (Centrelink)</label>
-               <input class="nsw-form-checkbox__input" type="checkbox" name="{AustralianTaxOffice}" id="{ATOyes}" checked>
-               <label class="nsw-form-checkbox__label" for="{ATOyes}">Australian Tax Office</label>
+               <label class="nsw-form-checkbox__label" for="{Cetrelinkyes}">Services Australia (Centrelink)</label>
+               <input class="nsw-form-checkbox__input" type="checkbox" name="{ATO}" id="{ATOyes}" checked>
+               <label class="nsw-form-checkbox__label" for="{ATOyes}">Australian Taxation Office</label>
                <input class="nsw-form-checkbox__input" type="checkbox" name="{SydneyWater}" id="{SydneyWateryes}">
                <label class="nsw-form-checkbox__label" for="{SydneyWateryes}">Sydney Water</label>               
             </div>
@@ -97,9 +97,9 @@
                <input class="nsw-form-checkbox__input" type="checkbox" name="{Medicare}" id="{Medicareyes}" checked>
                <label class="nsw-form-checkbox__label" for="{Medicareyes}">Medicare</label>
                <input class="nsw-form-checkbox__input" type="checkbox" name="{Centrelink}" id="{Centrelinkyes}">
-               <label class="nsw-form-checkbox__label" for="{Cetrelinkyes}">Services Australian (Centrelink)</label>
-               <input class="nsw-form-checkbox__input" type="checkbox" name="{AustralianTaxOffice}" id="{ATOyes}" checked>
-               <label class="nsw-form-checkbox__label" for="{ATOyes}">Australian Tax Office</label>
+               <label class="nsw-form-checkbox__label" for="{Cetrelinkyes}">Services Australia (Centrelink)</label>
+               <input class="nsw-form-checkbox__input" type="checkbox" name="{ATO}" id="{ATOyes}" checked>
+               <label class="nsw-form-checkbox__label" for="{ATOyes}">Australian Taxation Office</label>
                <input class="nsw-form-checkbox__input" type="checkbox" name="{SydneyWater}" id="{SydneyWateryes}" checked>
                <label class="nsw-form-checkbox__label" for="{SydneyWateryes}">Sydney Water</label>               
             </div>
