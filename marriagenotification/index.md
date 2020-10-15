@@ -31,7 +31,7 @@
             </div>
            </fieldset>
         </div>       
-<h3> Party 1 - Kel Knight <h3>
+<h3> Party 1 - Kel Knight </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
@@ -48,7 +48,7 @@
         </div> 
         
         
-<h3> Party 2 - Kath Day <h3>
+<h3> Party 2 - Kath Day </h3>
 <div class="nsw-forms">
         <div class="nsw-form-group">
             <fieldset class="nsw-form-fieldset">
